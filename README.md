@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yousseffekry1
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning cs50
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on github
+- 📫 How to reach me yousseffekry@gmail.com
 
 <!---
 yousseffekry1/yousseffekry1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
